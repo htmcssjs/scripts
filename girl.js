@@ -4,7 +4,7 @@
 // @UpdateTime        2022-07-01
 // @WebURL            https://api.lolicon.app/#/setu
 // @Quota             300次/天
-// @ScriptURL         https://raw.githubusercontent.com/htmcssjs/scripts/master/setu.js
+// @ScriptURL         https://raw.githubusercontent.com/htmcssjs/scripts/master/girl.js
 // ==/UserScript==
 
 let r18      = 2
