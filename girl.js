@@ -1,9 +1,15 @@
 /**
+ * ==UserScript==
  * @Name QX每日girl脚本
  * @Author htmcssjs
  * @UpdateTime 2022-07-01
  * @WebURL https://api.lolicon.app/#/setu
  * @ScriptURL https://raw.githubusercontent.com/htmcssjs/scripts/master/girl.js
+ * ==/UserScript==
+ 
+ [task_local]
+ 0 9 * * * https://raw.githubusercontent.com/htmcssjs/scripts/master/girl.js, tag=每日girl
+ 
  */
 
 let r18 = 2; //0为非 R18，1为 R18，2为混合
